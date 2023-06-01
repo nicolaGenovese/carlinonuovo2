@@ -245,6 +245,7 @@ h6 {
     url("../img/carlino.jpg") top center,
     linear-gradient(89deg, rgba(15, 22, 38, 0.7) 0%, rgba(0, 0, 0, 0) 100%);
   background-size: cover;
+  text-align: center;
 }
 
 #hero:before {
@@ -283,7 +284,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  /* border-bottom: 3px solid #149ddd; */
 }
 
 @media (min-width: 1024px) {
